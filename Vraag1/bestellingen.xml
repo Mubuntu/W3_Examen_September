@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bestellingen>
+    <bestelling adres="ten eekhovelei 62" datum="21/9/2017"  id="1" naamKlant="Patrick Frison">
+        <product id="8" productName="tv scherm" quantity="1"></product>
+    </bestelling>
+
+    <bestelling adres="ten gaststraat" datum="21/9/2017" hoeveelheid="2" id="2" naamKlant="mubuntu">
+        <product>BTO LAPTOP</product>
+    </bestelling>
+    <bestelling adres="brustraat 32" datum="25/01/2017" id="3" naamKlant="phil defranco">
+        <product id="4" productName="razer naga" quantity="1">Verkoudheidje</product>
+    </bestelling>
+    <bestelling adres="antwerpenstraat 3" datum="25/02/2017" hoeveelheid="2" id="5" naamKlant="Kimberly Maes">
+        <product id="7" productName="oncea davers" quantity="2">cursus</product>
+    </bestelling>
+</bestellingen>

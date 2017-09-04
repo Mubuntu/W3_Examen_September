@@ -1,0 +1,16 @@
+[{
+        "naam": "razer naga",
+        "producent": "razer",
+        "prijs": 200
+},
+
+    {
+        "naam": "bto laptop",
+        "producent": "snaaksystemen",
+        "prijs": 600
+},
+    {
+        "naam": "Macbook",
+        "producent": "apple",
+        "prijs": 1800
+}   ]
